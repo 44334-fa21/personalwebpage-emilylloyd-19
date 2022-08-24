@@ -1,1 +1,30 @@
 /*Personal Web Page Style Sheet */
+element style{
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+h1{
+  font-size:1.8em;
+  line-height:200%;
+}
+
+header{
+  background-color:#BEABA7;
+  color:#F0F0F0;
+  font-family:Georgia, serif;
+  background-repeat:no-repeat;
+  background-position:center;
+  text-align:center;
+}
+body{
+  background-color:#E7E1DB;
+  font-family:Georgia, Arial, Serif;
+  font-display:white;
+  font-align:center;
+  background-position:center;
+  background-repeat:no-repeat;
+  color:#AA7C7A;
+}
